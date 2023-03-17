@@ -1,4 +1,4 @@
 package com.designtictactoe.models;
 
-public class Game {
+public class Move {
 }

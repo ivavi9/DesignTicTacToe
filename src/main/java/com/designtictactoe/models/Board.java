@@ -1,2 +1,5 @@
-package com.designtictactoe.models;public class Board {
+package com.designtictactoe.models;
+
+public class Board {
+
 }

@@ -1,2 +1,4 @@
-package com.designtictactoe.models;public enum PlayerType {
+package com.designtictactoe.models;
+
+public enum PlayerType {
 }

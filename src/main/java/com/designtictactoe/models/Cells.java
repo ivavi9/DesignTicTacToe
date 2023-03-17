@@ -1,2 +1,4 @@
-package com.designtictactoe.models;public class Cells {
+package com.designtictactoe.models;
+
+public class Cells {
 }

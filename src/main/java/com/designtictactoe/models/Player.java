@@ -1,2 +1,4 @@
-package com.designtictactoe.models;public class Player {
+package com.designtictactoe.models;
+
+public abstract class Player {
 }
